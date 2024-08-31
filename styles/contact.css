@@ -1,0 +1,250 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #0B1A23;
+    color: #fff;
+    padding: 0px ;
+    font-size: larger;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ 
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    padding-bottom: 100px;
+  }
+  .h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+    padding: 0%;
+    color: #fff;
+   }
+  
+  #contact {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .section-header {
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px 0;
+    font: 300 60px 'Times New Roman', Times, serif;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+  }
+  
+  .contact-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+    max-width: 850px;
+    
+  }
+  
+  /* Left contact page */
+  .form-horizontal {
+    /*float: left;*/
+    max-width: 450px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding: 15px;
+  }
+  
+  .form-control, 
+  textarea {
+    min-width: 400px;
+    background-color: #000;
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 7px;
+    margin: 7px;
+  }
+  
+  .send-button {
+    margin-top: 5px;
+    height: 34px;
+    width: 414px;
+    overflow: hidden;
+    transition: all .2s ease-in-out;
+  }
+  
+  
+  
+  
+ 
+  
+  /* Begin Right Contact Page */
+  .direct-contact-container {
+    max-width: 400px;
+  }
+  
+  /* Location, Phone, Email Section */
+  .contact-list {
+    list-style-type: none;
+    margin-left: -30px;
+    padding-right: 20px;
+  }
+  
+  .list-item {
+    line-height: 4;
+    color: #aaa;
+  }
+  
+  .contact-text {
+    font: 300 18px 'Lato', sans-serif;
+    letter-spacing: 1.9px;
+    color: #bbb;
+  }
+  
+  .place {
+    margin-left: 62px;
+  }
+  
+  .phone {
+    margin-left: 56px;
+  }
+  
+  .gmail {
+    margin-left: 53px;
+  }
+  
+  .contact-text a {
+    color: #bbb;
+    text-decoration: none;
+    transition-duration: 0.2s;
+  }
+  
+  .contact-text a:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  
+  
+ 
+  
+  
+  footer {
+    background-color: #0B1A23;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+  
+
+.btn {
+  display: inline-block;
+ 
+  color: #000000;
+  padding: 0px 0px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  text-align: center;
+  font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+/* Add this CSS for the logo section */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-section {
+    display: flex;
+    align-items: auto;
+}
+.logo-link {
+    text-decoration: none;
+    color: inherit; /* Use the default color */
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 110px; /* Adjust the width as needed */
+    margin-right: 5px; /* Adjust the margin as needed */
+}
+
+.company-name {
+    font-size: 40px; /* Increase the font size */
+    color: #fbfbfb; /* Adjust the color as needed */
+    margin-right: auto; /* Pushes the company name to the right */
+    font-family:'Times New Roman', Times, serif; /* Specify a font family */
+    font-weight: bold; /* Make the font bold */
+    margin: 0; /* Reset margin */
+    display: inline; /* Display the company name inline */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
